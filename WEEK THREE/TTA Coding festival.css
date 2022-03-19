@@ -1,0 +1,35 @@
+table {
+    width: 400px
+  }
+  
+  th {
+    text-align:center
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    
+}
+
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+th{
+    text-align:center;
+    font-size: 30px;
+    color: rgb(79, 148, 180);
+}
+td {
+    text-align:left;
+}
+
+th {
+    column-fill: balance;
+}
+
+
+ 
