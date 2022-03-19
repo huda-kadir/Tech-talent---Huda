@@ -1,0 +1,35 @@
+<html>
+
+<table>
+  <tr>
+    <p align="center">
+     <th> Workshop schelude </th>
+    </p>
+  <tr>
+
+  <tr>
+    <td> 12.00 PM </td>
+    <td> Welcome to the festival</td>
+  <tr>
+    
+    <tr>
+    <td> 01:00 PM</td>
+    <td> Python 101</td>
+  <tr>
+    
+    <tr>
+    <td> 02:00 PM</td>
+    <td> Keeping you cyber - secure</td>
+      
+  <tr>
+    <tr>
+    <td> 03:00 PM</td>
+    <td> The WWW and HTML</td>
+  <tr>
+    
+     <tr>
+    <td> 04:00 PM</td>
+    <td> Group project</td>
+  <tr>
+
+</html>
