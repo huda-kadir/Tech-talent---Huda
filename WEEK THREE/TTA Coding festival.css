@@ -1,15 +1,19 @@
 table {
-    width: 400px
+    width: 600px
   }
   
   th {
     text-align:center
   }
 
+  th {
+      width: 400px;
+  }
+
   table, th, td {
-    border: 1px solid black;
+    border: 5px solid rgb(0, 0, 0);
     border-collapse: collapse;
-    padding: 20px;
+    padding: 5px;
     
 }
 
@@ -18,10 +22,20 @@ h1 {
     font-size: 40px;
     text-align: center;
 }
-th{
+th {
     text-align:center;
-    font-size: 30px;
-    color: rgb(79, 148, 180);
+    font-size: 20px;
+    color: rgb(192, 45, 131)
+    
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
 }
 td {
     text-align:left;
@@ -31,5 +45,29 @@ th {
     column-fill: balance;
 }
 
+tr:nth-child(even) {
+    background-color: rgb(151, 211, 211);
+}
 
- 
+tr:nth-child(odd) {
+    background-color: rgb(151, 211, 211);
+}
+
+th {
+    background-color: rgb(5, 156, 167);
+}
+
+header {
+    font-size: 30px;
+}
+
+#footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:rgb(128, 128, 128);
+    text-align: left;
+    display: inline-block;
+    vertical-align:top
+ }
