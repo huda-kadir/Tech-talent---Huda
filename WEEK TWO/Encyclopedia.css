@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: oswald;
+}
+
+.why {
+    color: blue;
+}
+
+.how {
+    color: brown;
+}
+
+p {
+    background-color: aqua;
+    margin: 50px;
+}
